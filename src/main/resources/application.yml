@@ -1,0 +1,14 @@
+configuration:
+  timeout: 500
+  name: 'my-bean'
+  options:
+    - 'list'
+    - 'of'
+    - 'options'
+old-configuration:
+  timeout: 500
+  name: 'other-bean'
+  options:
+    - 'list'
+    - 'of'
+    - 'options'
